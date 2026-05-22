@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png" alt="FlowHire AI Logo" width="180" />
+</p>
+
 # FlowHire AI 🧠💼
 ### AI-Assisted Recruitment Workflow Platform
 
